@@ -1,4 +1,5 @@
-#Evexia
+#Evexia#
+
 **Note** Best to open this app on a Mobile Device
 
 Created in 2020 for SparkHacks. The hackathons prompt focused on mental heatlh, as such Evexia was created
