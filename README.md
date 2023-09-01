@@ -1,13 +1,21 @@
-# evexia
+#Evexia
+**Note** Best to open this app on a Mobile Device
 
-**THIS IS INTENDED TO BE OPENED ON A MOBILE DEVICE**
+Created in 2020 for SparkHacks. The hackathons prompt focused on mental heatlh, as such Evexia was created
+as a web application to help individuals susceptible to anxiety and panic attacks. 
 
-This is a web application made to help ones with anxiety and panic attacks. Evexia provides resources for grounding such as 
-audio, videos, and meditation material that empowers you with cognitive behavioral therapy techniques to overcome panic attacks. 
-There is also a mood and stress tracker for you to be able to reflect. 
+Evexia focuses on providing the user with various outlets to help relieve there anxiety symptons. These methods were determined through research. 
+By selecting the "Log" tab the user is taken to a page where they can journal and track their mood and stress. This can allow the user to identify
+over time when they might feel more stressed and what could be a cause of their stress as well. 
 
-SOURCES<br> 
-Sources for mental health research used in project:
+For more immediate relief the user can choose the 'Mindfullness' tab. This tab features audio affirmations, white noise, guided meditation and therapist resources 
+for the user. Depending on how severe there symptons are or there needs, the user can go through each of these activities. 
+
+The webapp also features a "Game" which can allow the user to engange in grounding, a technique used to manage anxiety symptons by focusing on one's senses. 
+The webapp was created using HTML, CSS and Javascript. 
+
+Sources<br> 
+Sources used in research for this project:
 
 Mayo Clinic. (2018, May 4th). Anxiety Disorders. Retrieved from, https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961
 
