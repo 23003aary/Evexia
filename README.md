@@ -1,4 +1,4 @@
-#Evexia#
+# **Evexia**
 
 **Note** Best to open this app on a Mobile Device
 
